@@ -3,6 +3,7 @@
 //  MSBLogs_AllanXing
 //
 //  Created by AgnesT on 14-2-8.
+//  Edit by hiocsey on 14-05-26
 //  Copyright (c) 2014年 allan. All rights reserved.
 //
 
